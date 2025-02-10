@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.16.3](https://github.com/asdf-vm/asdf/compare/v0.16.2...v0.16.3) (2025-02-10)
+
+
+### Bug Fixes
+
+* correct typo in `Upgrading to 0.16.0` documentation ([#1938](https://github.com/asdf-vm/asdf/issues/1938)) ([7e8e5f6](https://github.com/asdf-vm/asdf/commit/7e8e5f60d13b0672e65982e21d7dc864246be8eb))
+
 ## [0.16.2](https://github.com/asdf-vm/asdf/compare/v0.16.1...v0.16.2) (2025-02-08)
 
 
